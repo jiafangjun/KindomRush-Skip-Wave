@@ -6,3 +6,8 @@ Enviroment:
 Python 2/3 32bit
 
 PyQt5
+
+
+Required game version:
+
+Kingdom Rush HD Steam ver2.2
